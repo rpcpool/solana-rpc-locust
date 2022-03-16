@@ -9,3 +9,6 @@ $ pip install -r locust
 $  ./locust/bin/locust -f solana-user.py
 ```
 
+## Locust docs
+
+http://docs.locust.io/en/stable/index.html
