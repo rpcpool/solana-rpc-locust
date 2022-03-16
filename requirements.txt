@@ -1,0 +1,7 @@
+pyyaml
+packaging
+passlib
+jmespath 
+locust
+solana
+mnemonic
